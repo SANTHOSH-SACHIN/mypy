@@ -2,7 +2,6 @@
 
 Mypy: Static Typing for Python
 =======================================
-
 [![Stable Version](https://img.shields.io/pypi/v/mypy?color=blue)](https://pypi.org/project/mypy/)
 [![Downloads](https://img.shields.io/pypi/dm/mypy)](https://pypistats.org/packages/mypy)
 [![Build Status](https://github.com/python/mypy/actions/workflows/test.yml/badge.svg)](https://github.com/python/mypy/actions)
